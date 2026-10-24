@@ -53,7 +53,7 @@ body {
 .hero {
     position: relative; width: 100%; height: auto; min-height: 0;
     aspect-ratio: 1694 / 960; overflow: hidden;
-    background: url("../101.webp") center / 100% 100% no-repeat;
+    background: url("images/101.webp") center / 100% 100% no-repeat;
 }
 
 /* Shared titles */
@@ -295,7 +295,7 @@ footer p { color: #777; font-size: 12px; }
     .menu-nav { align-items: stretch; gap: 0; }
     .menu-nav a { padding: 10px 0; font-size: 14px; }
 
-    .hero { width: 100%; height: auto; aspect-ratio: 1694 / 960; background-image: url("../101.webp"); background-size: 100% 100%; background-position: center; background-repeat: no-repeat; }
+    .hero { width: 100%; height: auto; aspect-ratio: 1694 / 960; background-image: url("images/101.webp"); background-size: 100% 100%; background-position: center; background-repeat: no-repeat; }
 
     .section-title-row { gap: 11px; }
     .section-title-row h1 { font-size: 22px; line-height: 1.5; }
